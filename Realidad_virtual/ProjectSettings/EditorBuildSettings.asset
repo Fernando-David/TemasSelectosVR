@@ -4,7 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PruebaVR.unity
+    guid: 7c84fd6d2b2b7074d82e5ec5a6a8d1e9
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 587035a1b72988040968886784cf1888, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bb0f43aa8cbda514b80ddbac255eef1b, type: 2}
   m_UseUCBPForAssetBundles: 0
